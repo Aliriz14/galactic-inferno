@@ -28,18 +28,15 @@ Prerequisites
 A C++ compiler (e.g. g++, clang++, or Visual Studio)
 
 SFML 2.x installed on your system
-Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/galactic-inferno.git
-cd galactic-inferno
+
 Build Instructions (Linux/macOS)
 bash
 Copy
 Edit
 g++ -std=c++17 main.cpp -o galactic_inferno -lsfml-graphics -lsfml-window -lsfml-system
 ./galactic_inferno
+
+
 For Windows users, ensure SFML is properly linked in your IDE (e.g. Visual Studio) or use CMake if your project is structured for it.
 
 📁 Project Structure
