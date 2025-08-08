@@ -1,1 +1,1 @@
-# cosmic-blaze
+# GALACTIC-INFERNO
