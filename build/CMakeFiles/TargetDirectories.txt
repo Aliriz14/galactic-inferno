@@ -1,0 +1,3 @@
+/Users/ali/Desktop/GalacticaInferno/build/CMakeFiles/GalacticaInferno.dir
+/Users/ali/Desktop/GalacticaInferno/build/CMakeFiles/edit_cache.dir
+/Users/ali/Desktop/GalacticaInferno/build/CMakeFiles/rebuild_cache.dir

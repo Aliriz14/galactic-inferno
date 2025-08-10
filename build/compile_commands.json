@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/main.cpp.o -c /Users/ali/Desktop/GalacticaInferno/main.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/main.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Bomb.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Bomb.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Bomb.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Bomb.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Explosion.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Explosion.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Explosion.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Explosion.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Game.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Game.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Game.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Game.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/GameObject.cpp.o -c /Users/ali/Desktop/GalacticaInferno/GameObject.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/GameObject.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/GameObject.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Helicopter.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Helicopter.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Helicopter.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Helicopter.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Meteor.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Meteor.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Meteor.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Meteor.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Missile.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Missile.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Missile.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Missile.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Pipe.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Pipe.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Pipe.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Pipe.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/Projectile.cpp.o -c /Users/ali/Desktop/GalacticaInferno/Projectile.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/Projectile.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/Projectile.cpp.o"
+},
+{
+  "directory": "/Users/ali/Desktop/GalacticaInferno/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/GalacticaInferno.dir/ScrollingBackground.cpp.o -c /Users/ali/Desktop/GalacticaInferno/ScrollingBackground.cpp",
+  "file": "/Users/ali/Desktop/GalacticaInferno/ScrollingBackground.cpp",
+  "output": "CMakeFiles/GalacticaInferno.dir/ScrollingBackground.cpp.o"
+}
+]
